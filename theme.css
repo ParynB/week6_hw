@@ -208,11 +208,12 @@ img {
 }
 
 .bg {
-  background: url(../images/website-background-design.jpg) no-repeat center center fixed;
+  background: url(../images/background.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  height: 25rem
 }
 
 footer {
