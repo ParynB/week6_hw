@@ -82,7 +82,7 @@ img {
   width: 100%;
 }
 
-#resize{
+.resize{
   width:50%;
   display: block;
   margin-left: auto;
